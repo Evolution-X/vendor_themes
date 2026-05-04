@@ -42,6 +42,13 @@
       "description": "Battery icon style themes",
       "targetPackage": "com.android.systemui",
       "icon": "battery_full"
+    },
+    {
+      "id": "qs_waveform",
+      "name": "Media Waveform",
+      "description": "Custom animations for media seekbar",
+      "targetPackage": "com.android.systemui",
+      "icon": "waveform"
     }
   ],
   "categories": [
@@ -80,9 +87,103 @@
       "name": "Battery Style",
       "description": "Battery icon style themes",
       "icon": "battery_full"
+    },
+    {
+      "id": "qs_waveform",
+      "name": "Media Waveform",
+      "description": "Custom media seekbar animations",
+      "icon": "waveform"
     }
   ],
   "themes": [
+    {
+      "id": "qs_waveform_axion",
+      "name": "Axion Waveform",
+      "description": "Signature high-end organic multi-peak wave",
+      "author": "AxionOS",
+      "version": "1.1.0",
+      "versionCode": 2,
+      "minSdk": 35,
+      "category": "qs_waveform",
+      "previewImages": [
+        "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/previews/waveforms/axion.webp"
+      ],
+      "overlays": [
+        {
+          "packageName": "android.theme.customization.qs_waveform.axion",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/AxionWaveformOverlay.apk",
+          "componentId": "qs_waveform",
+          "targetPackage": "com.android.systemui",
+          "fileSize": 12634
+        }
+      ]
+    },
+    {
+      "id": "qs_waveform_pulse",
+      "name": "Pulse Waveform",
+      "description": "Smoothed high-energy audio visualizer",
+      "author": "AxionOS",
+      "version": "1.1.0",
+      "versionCode": 2,
+      "minSdk": 35,
+      "category": "qs_waveform",
+      "previewImages": [
+        "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/previews/waveforms/pulse.webp"
+      ],
+      "overlays": [
+        {
+          "packageName": "android.theme.customization.qs_waveform.pulse",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/PulseWaveformOverlay.apk",
+          "componentId": "qs_waveform",
+          "targetPackage": "com.android.systemui",
+          "fileSize": 12634
+        }
+      ]
+    },
+    {
+      "id": "qs_waveform_heartbeat",
+      "name": "Axion Heartbeat",
+      "description": "Precision medical ECG heart monitor",
+      "author": "AxionOS",
+      "version": "1.1.0",
+      "versionCode": 2,
+      "minSdk": 35,
+      "category": "qs_waveform",
+      "previewImages": [
+        "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/previews/waveforms/heartbeat.webp"
+      ],
+      "overlays": [
+        {
+          "packageName": "android.theme.customization.qs_waveform.heartbeat",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/HeartbeatWaveformOverlay.apk",
+          "componentId": "qs_waveform",
+          "targetPackage": "com.android.systemui",
+          "fileSize": 12634
+        }
+      ]
+    },
+    {
+      "id": "qs_waveform_ocean",
+      "name": "Ocean Waveform",
+      "description": "Deep rolling dual-layer split-flow ocean",
+      "author": "AxionOS",
+      "version": "1.1.0",
+      "versionCode": 2,
+      "minSdk": 35,
+      "category": "qs_waveform",
+      "previewImages": [
+        "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/previews/waveforms/ocean.webp"
+      ],
+      "overlays": [
+        {
+          "packageName": "android.theme.customization.qs_waveform.ocean",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/OceanWaveformOverlay.apk",
+          "componentId": "qs_waveform",
+          "targetPackage": "com.android.systemui",
+          "fileSize": 12634
+        }
+      ]
+    },
     {
       "id": "aquarium_signal",
       "name": "Aquarium Signal",

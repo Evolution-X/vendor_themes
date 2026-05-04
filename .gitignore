@@ -21,6 +21,8 @@ dist/
 !apks/*.apk
 !previews/*.png
 !previews/*.jpg
+!previews/*.webp
+!previews/**/*.webp
 
 # Node modules (if using any build tools)
 node_modules/
@@ -38,3 +40,5 @@ __pycache__/
 # Personal notes
 notes.txt
 TODO.md
+sources/
+*.idsig
