@@ -1,0 +1,2356 @@
+{
+  "version": 3,
+  "lastUpdated": "2026-03-18T15:00:00Z",
+  "repository": {
+    "name": "crDroid Android Official Repository",
+    "description": "Official theme repository for crDroid Android Project",
+    "maintainer": "neobuddy89",
+    "baseUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0"
+  },
+  "components": [
+    {
+      "id": "signal",
+      "name": "Signal Icons",
+      "description": "Mobile signal indicator icons",
+      "targetPackage": "android",
+      "icon": "signal"
+    },
+    {
+      "id": "wifi",
+      "name": "WiFi Icons",
+      "description": "WiFi signal indicator icons",
+      "targetPackage": "android",
+      "icon": "wifi"
+    },
+    {
+      "id": "battery_style",
+      "name": "Battery Style",
+      "description": "Battery icon style themes",
+      "targetPackage": "com.android.systemui",
+      "icon": "battery_full"
+    }
+  ],
+  "categories": [
+    {
+      "id": "signal_icons",
+      "name": "Signal Icons",
+      "description": "Mobile signal bar themes",
+      "icon": "signal_cellular_alt"
+    },
+    {
+      "id": "wifi_icons",
+      "name": "WiFi Icons",
+      "description": "WiFi signal bar themes",
+      "icon": "wifi"
+    },
+    {
+      "id": "icon_packs",
+      "name": "Icon Packs",
+      "description": "System-wide icon style themes",
+      "icon": "category"
+    },
+    {
+      "id": "battery_style",
+      "name": "Battery Style",
+      "description": "Battery icon style themes",
+      "icon": "battery_full"
+    }
+  ],
+  "themes": [
+    {
+      "id": "aquarium_signal",
+      "name": "Aquarium Signal",
+      "description": "Aquarium signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_aa",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/AquariumSignalOverlay.apk",
+          "fileSize": 30001,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "aurora_signal",
+      "name": "Aurora Signal",
+      "description": "Aurora signal icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalAurora",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/AuroraSignalOverlay.apk",
+          "fileSize": 35308,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "bars_signal",
+      "name": "Bars Signal",
+      "description": "Bars signal icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_h",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BarsSignalOverlay.apk",
+          "fileSize": 21809,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "butterfly_signal",
+      "name": "Butterfly Signal",
+      "description": "Butterfly signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_ab",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/ButterflySignalOverlay.apk",
+          "fileSize": 21809,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "circle_signal",
+      "name": "Circle Signal",
+      "description": "Circle signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_aq",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/CircleSignalOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "daun_signal",
+      "name": "Daun Signal",
+      "description": "Daun signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_ac",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/DaunSignalOverlay.apk",
+          "fileSize": 30001,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "dec_signal",
+      "name": "Dec Signal",
+      "description": "Dec signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_ad",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/DecSignalOverlay.apk",
+          "fileSize": 46385,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "deep_signal",
+      "name": "Deep Signal",
+      "description": "Deep signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_ae",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/DeepSignalOverlay.apk",
+          "fileSize": 30001,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "dora_signal",
+      "name": "Dora Signal",
+      "description": "Dora signal icons",
+      "author": "F5LAYD",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_j",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/DoraSignalOverlay.apk",
+          "fileSize": 42289,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "equal_signal",
+      "name": "Equal Signal",
+      "description": "Equal signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_af",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/EqualSignalOverlay.apk",
+          "fileSize": 34097,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "faintui_signal",
+      "name": "FaintUI Signal",
+      "description": "FaintUI signal icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalFaintUI",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/FaintUISignalOverlay.apk",
+          "fileSize": 39404,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "fan_signal",
+      "name": "Fan Signal",
+      "description": "Fan signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_ag",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/FanSignalOverlay.apk",
+          "fileSize": 25905,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "forlorn_signal",
+      "name": "Forlorn Signal",
+      "description": "Forlorn signal icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalForlorn",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/ForlornSignalOverlay.apk",
+          "fileSize": 31212,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "gradicon_signal",
+      "name": "Gradicon Signal",
+      "description": "Gradicon signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalGradicon",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/GradiconSignalOverlay.apk",
+          "fileSize": 115666,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "huawei_signal",
+      "name": "Huawei Signal",
+      "description": "Huawei signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_ah",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/HuaweiSignalOverlay.apk",
+          "fileSize": 25905,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "inside_signal",
+      "name": "Inside Signal",
+      "description": "Inside signal icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_g",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/InsideSignalOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "ios_signal",
+      "name": "Ios Signal",
+      "description": "Ios signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_ar",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IosSignalOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "mini_signal",
+      "name": "Mini Signal",
+      "description": "Mini signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_as",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/MiniSignalOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "nothingdot_signal",
+      "name": "NothingDot Signal",
+      "description": "NothingDot signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalNothingDot",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/NothingDotSignalOverlay.apk",
+          "fileSize": 103810,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "odin_signal",
+      "name": "Odin Signal",
+      "description": "Odin signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_ap",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/OdinSignalOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "pills_signal",
+      "name": "Pills Signal",
+      "description": "Pills signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_at",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/PillsSignalOverlay.apk",
+          "fileSize": 21809,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "plumpy_signal",
+      "name": "Plumpy Signal",
+      "description": "Plumpy signal icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.custom.overlay.systemui.signalPlumpy",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/PlumpySignalOverlay.apk",
+          "fileSize": 35308,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "rel_signal",
+      "name": "Rel Signal",
+      "description": "Rel signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_ai",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/RelSignalOverlay.apk",
+          "fileSize": 30001,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "roman_signal",
+      "name": "Roman Signal",
+      "description": "Roman signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_au",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/RomanSignalOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "round_signal",
+      "name": "Round Signal",
+      "description": "Round signal icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_f",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/RoundSignalOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "scroll_signal",
+      "name": "Scroll Signal",
+      "description": "Scroll signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_aj",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/ScrollSignalOverlay.apk",
+          "fileSize": 25905,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "sea_signal",
+      "name": "Sea Signal",
+      "description": "Sea signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_ak",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/SeaSignalOverlay.apk",
+          "fileSize": 30001,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "sneaky_signal",
+      "name": "Sneaky Signal",
+      "description": "Sneaky signal icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_b",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/SneakySignalOverlay.apk",
+          "fileSize": 21809,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "stack_signal",
+      "name": "Stack Signal",
+      "description": "Stack signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_al",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/StackSignalOverlay.apk",
+          "fileSize": 50481,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "stroke_signal",
+      "name": "Stroke Signal",
+      "description": "Stroke signal icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_a",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/StrokeSignalOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "wannui_signal",
+      "name": "Wannui Signal",
+      "description": "Wannui signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_am",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/WannuiSignalOverlay.apk",
+          "fileSize": 25905,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "wavy_signal",
+      "name": "Wavy Signal",
+      "description": "Wavy signal icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.crdroid.systemui.signalbar_e",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/WavySignalOverlay.apk",
+          "fileSize": 21809,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "windows_signal",
+      "name": "Windows Signal",
+      "description": "Windows signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_an",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/WindowsSignalOverlay.apk",
+          "fileSize": 34097,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "wing_signal",
+      "name": "Wing Signal",
+      "description": "Wing signal icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_ao",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/WingSignalOverlay.apk",
+          "fileSize": 144689,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "xperia_signal",
+      "name": "Xperia Signal",
+      "description": "Xperia signal icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_c",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/XperiaSignalOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "zigzag_signal",
+      "name": "ZigZag Signal",
+      "description": "ZigZag signal icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "signal_icons",
+      "tags": [
+        "signal",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "signal",
+          "packageName": "com.android.systemui.signalbar_d",
+          "targets": [
+            "signal"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/ZigZagSignalOverlay.apk",
+          "fileSize": 17713,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "aurora_wifi",
+      "name": "Aurora WiFi",
+      "description": "Aurora WiFi icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiAurora",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/AuroraWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "bars_wifi",
+      "name": "Bars WiFi",
+      "description": "Bars WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_h",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BarsWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "dora_wifi",
+      "name": "Dora WiFi",
+      "description": "Dora WiFi icons",
+      "author": "F5LAYD",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_j",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/DoraWiFiOverlay.apk",
+          "fileSize": 25418,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "faintui_wifi",
+      "name": "FaintUI WiFi",
+      "description": "FaintUI WiFi icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiFaintUI",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/FaintUIWiFiOverlay.apk",
+          "fileSize": 17332,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "forlorn_wifi",
+      "name": "Forlorn WiFi",
+      "description": "Forlorn WiFi icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiForlorn",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/ForlornWiFiOverlay.apk",
+          "fileSize": 17332,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "gradicon_wifi",
+      "name": "Gradicon WiFi",
+      "description": "Gradicon WiFi icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifiGradicon",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/GradiconWiFiOverlay.apk",
+          "fileSize": 45664,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "inside_wifi",
+      "name": "Inside WiFi",
+      "description": "Inside WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_g",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/InsideWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "nothingdot_wifi",
+      "name": "NothingDot WiFi",
+      "description": "NothingDot WiFi icons",
+      "author": "rdx420",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifiNothingDot",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/NothingDotWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "plumpy_wifi",
+      "name": "Plumpy WiFi",
+      "description": "Plumpy WiFi icons",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.custom.overlay.systemui.wifiPlumpy",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/PlumpyWiFiOverlay.apk",
+          "fileSize": 17332,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "round_wifi",
+      "name": "Round WiFi",
+      "description": "Round WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_f",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/RoundWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "sneaky_wifi",
+      "name": "Sneaky WiFi",
+      "description": "Sneaky WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_b",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/SneakyWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "stroke_wifi",
+      "name": "Stroke WiFi",
+      "description": "Stroke WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_a",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/StrokeWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "wavy_wifi",
+      "name": "Wavy WiFi",
+      "description": "Wavy WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_e",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/WavyWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "weed_wifi",
+      "name": "Weed WiFi",
+      "description": "Weed WiFi icons",
+      "author": "F5LAYD",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_i",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/WeedWiFiOverlay.apk",
+          "fileSize": 25321,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "xperia_wifi",
+      "name": "Xperia WiFi",
+      "description": "Xperia WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_c",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/XperiaWiFiOverlay.apk",
+          "fileSize": 17129,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "zigzag_wifi",
+      "name": "ZigZag WiFi",
+      "description": "ZigZag WiFi icons",
+      "author": "Advaith Bhat",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "wifi_icons",
+      "tags": [
+        "wifi",
+        "statusbar"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "wifi",
+          "packageName": "com.android.systemui.wifibar_d",
+          "targets": [
+            "wifi"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/ZigZagWiFiOverlay.apk",
+          "fileSize": 13033,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_acherus",
+      "name": "Acherus",
+      "description": "Acherus icon pack",
+      "author": "Pranav",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.acherus.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackAcherusAndroidOverlay.apk",
+          "fileSize": 44567,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.acherus.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackAcherusSystemUIOverlay.apk",
+          "fileSize": 138190,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_aurora",
+      "name": "Aurora",
+      "description": "Aurora icon pack",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.aurora.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackAuroraAndroidOverlay.apk",
+          "fileSize": 135346,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.aurora.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackAuroraSystemUIOverlay.apk",
+          "fileSize": 388877,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_circular",
+      "name": "Circular",
+      "description": "Circular icon pack",
+      "author": "Amin Shaikh",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.circular.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackCircularAndroidOverlay.apk",
+          "fileSize": 84530,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.circular.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackCircularSystemUIOverlay.apk",
+          "fileSize": 70484,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_filled",
+      "name": "Filled",
+      "description": "Filled icon pack",
+      "author": "Amin Shaikh",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.filled.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackFilledAndroidOverlay.apk",
+          "fileSize": 71767,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.filled.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackFilledSystemUIOverlay.apk",
+          "fileSize": 62292,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_gradicon",
+      "name": "Gradicon",
+      "description": "Gradicon icon pack",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.gradicon.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackGradiconAndroidOverlay.apk",
+          "fileSize": 406338,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.gradicon.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackGradiconSystemUIOverlay.apk",
+          "fileSize": 1125207,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_kai",
+      "name": "Kai",
+      "description": "Kai icon pack",
+      "author": "Jay Aliomer",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.kai.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackKaiAndroidOverlay.apk",
+          "fileSize": 104973,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.kai.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackKaiSystemUIOverlay.apk",
+          "fileSize": 128030,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_lorn",
+      "name": "Lorn",
+      "description": "Lorn icon pack",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.lorn.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackLornAndroidOverlay.apk",
+          "fileSize": 131324,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.lorn.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackLornSystemUIOverlay.apk",
+          "fileSize": 367388,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_nostalgic",
+      "name": "Nostalgic",
+      "description": "Nostalgic icon pack",
+      "author": "Radosław Błędowski",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.nostalgic.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackNostalgicAndroidOverlay.apk",
+          "fileSize": 53926,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.nostalgic.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackNostalgicSystemUIOverlay.apk",
+          "fileSize": 67113,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_oos",
+      "name": "OOS",
+      "description": "OOS icon pack",
+      "author": "AshutoshSundresh",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.oos.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackOOSAndroidOverlay.apk",
+          "fileSize": 80483,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.oos.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackOOSSystemUIOverlay.apk",
+          "fileSize": 66214,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_outline",
+      "name": "Outline",
+      "description": "Outline icon pack",
+      "author": "Niklas Schnettler",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.outline.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackOutlineAndroidOverlay.apk",
+          "fileSize": 149210,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.outline.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackOutlineSystemUIOverlay.apk",
+          "fileSize": 278421,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_plumpy",
+      "name": "Plumpy",
+      "description": "Plumpy icon pack",
+      "author": "DrDisagree",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.plumpy.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackPlumpyAndroidOverlay.apk",
+          "fileSize": 138914,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.plumpy.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackPlumpySystemUIOverlay.apk",
+          "fileSize": 425659,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_pui",
+      "name": "PUI",
+      "description": "PUI icon pack",
+      "author": "spkal01",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.pui.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackPUIAndroidOverlay.apk",
+          "fileSize": 152490,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.pui.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackPUISystemUIOverlay.apk",
+          "fileSize": 170152,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_rounded",
+      "name": "Rounded",
+      "description": "Rounded icon pack",
+      "author": "Amin Shaikh",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.rounded.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackRoundedAndroidOverlay.apk",
+          "fileSize": 75863,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.rounded.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackRoundedSystemUIOverlay.apk",
+          "fileSize": 66388,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_sam",
+      "name": "Sam",
+      "description": "Sam icon pack",
+      "author": "Jay Aliomer",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.sam.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackSamAndroidOverlay.apk",
+          "fileSize": 96247,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.sam.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackSamSystemUIOverlay.apk",
+          "fileSize": 113942,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_victor",
+      "name": "Victor",
+      "description": "Victor icon pack",
+      "author": "Jay Aliomer",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.victor.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackVictorAndroidOverlay.apk",
+          "fileSize": 96449,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.victor.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackVictorSystemUIOverlay.apk",
+          "fileSize": 124242,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "iconpack_xperia",
+      "name": "Xperia",
+      "description": "Xperia icon pack",
+      "author": "AndroBuddy",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 35,
+      "previewImages": [],
+      "category": "icon_packs",
+      "tags": [
+        "icons",
+        "system"
+      ],
+      "isUnified": false,
+      "overlays": [
+        {
+          "componentId": "android.theme.customization.icon_pack.android",
+          "packageName": "com.android.theme.icon_pack.xperia.android",
+          "targets": [
+            "android"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackXperiaAndroidOverlay.apk",
+          "fileSize": 76316,
+          "enabled": true
+        },
+        {
+          "componentId": "android.theme.customization.icon_pack.systemui",
+          "packageName": "com.android.theme.icon_pack.xperia.systemui",
+          "targets": [
+            "systemui"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackXperiaSystemUIOverlay.apk",
+          "fileSize": 57943,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_batteryinverter",
+      "name": "Battery Inverter",
+      "description": "Inverter-style battery",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "inverter"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.batteryinverter",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleBatteryInverterOverlay.apk",
+          "fileSize": 29022,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_faintui",
+      "name": "FaintUI",
+      "description": "FaintUI style battery",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "faint"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.faintui",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleFaintUIOverlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_heart",
+      "name": "Heart",
+      "description": "Heart shape battery",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "heart"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.heart",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleHeartOverlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_ios15",
+      "name": "iOS 15",
+      "description": "iOS 15-style horizontal battery with rounded fill",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "ios",
+        "horizontal"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.ios15",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleiOS15Overlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_ios16",
+      "name": "iOS 16",
+      "description": "iOS 16-style horizontal battery with inside percent",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "ios",
+        "horizontal",
+        "percent"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.ios16",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleiOS16Overlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_oneui7",
+      "name": "One UI 7",
+      "description": "Samsung One UI 7-style rounded pill battery",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "samsung",
+        "oneui",
+        "horizontal"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.oneui7",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleOneUI7Overlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_origami",
+      "name": "Origami",
+      "description": "Origami-folded capsule battery",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "origami",
+        "capsule"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.origami",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleOrigamiOverlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "battery_smiley",
+      "name": "Smiley",
+      "description": "Cheerful smiley face battery",
+      "author": "Iconify",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "battery_style",
+      "tags": [
+        "battery_style",
+        "smiley",
+        "fun"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "battery_style",
+          "packageName": "com.android.systemui.battery.smiley",
+          "targets": [
+            "android.theme.customization.battery_style"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleSmileyOverlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
