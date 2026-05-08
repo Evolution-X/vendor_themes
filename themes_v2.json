@@ -2,10 +2,10 @@
   "version": 3,
   "lastUpdated": "2026-03-18T15:00:00Z",
   "repository": {
-    "name": "crDroid Android Official Repository",
-    "description": "Official theme repository for crDroid Android Project",
-    "maintainer": "neobuddy89",
-    "baseUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0"
+    "name": "Evolution X Official Theme Repository",
+    "description": "Official theme repository for Evolution X",
+    "maintainer": "joeyhuab",
+    "baseUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2"
   },
   "components": [
     {
@@ -105,7 +105,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/AquariumSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/AquariumSignalOverlay.apk",
           "fileSize": 30001,
           "enabled": true
         }
@@ -133,7 +133,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/AuroraSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/AuroraSignalOverlay.apk",
           "fileSize": 35308,
           "enabled": true
         }
@@ -161,7 +161,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BarsSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/BarsSignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
@@ -189,7 +189,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/ButterflySignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/ButterflySignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
@@ -217,7 +217,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/CircleSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/CircleSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -245,7 +245,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/DaunSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/DaunSignalOverlay.apk",
           "fileSize": 30001,
           "enabled": true
         }
@@ -273,7 +273,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/DecSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/DecSignalOverlay.apk",
           "fileSize": 46385,
           "enabled": true
         }
@@ -301,7 +301,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/DeepSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/DeepSignalOverlay.apk",
           "fileSize": 30001,
           "enabled": true
         }
@@ -329,7 +329,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/DoraSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/DoraSignalOverlay.apk",
           "fileSize": 42289,
           "enabled": true
         }
@@ -357,7 +357,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/EqualSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/EqualSignalOverlay.apk",
           "fileSize": 34097,
           "enabled": true
         }
@@ -385,7 +385,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/FaintUISignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/FaintUISignalOverlay.apk",
           "fileSize": 39404,
           "enabled": true
         }
@@ -413,7 +413,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/FanSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/FanSignalOverlay.apk",
           "fileSize": 25905,
           "enabled": true
         }
@@ -441,7 +441,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/ForlornSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/ForlornSignalOverlay.apk",
           "fileSize": 31212,
           "enabled": true
         }
@@ -469,7 +469,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/GradiconSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/GradiconSignalOverlay.apk",
           "fileSize": 115666,
           "enabled": true
         }
@@ -497,7 +497,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/HuaweiSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/HuaweiSignalOverlay.apk",
           "fileSize": 25905,
           "enabled": true
         }
@@ -525,7 +525,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/InsideSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/InsideSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -553,7 +553,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IosSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IosSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -581,7 +581,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/MiniSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/MiniSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -609,7 +609,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/NothingDotSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/NothingDotSignalOverlay.apk",
           "fileSize": 103810,
           "enabled": true
         }
@@ -637,7 +637,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/OdinSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/OdinSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -665,7 +665,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/PillsSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/PillsSignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
@@ -693,7 +693,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/PlumpySignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/PlumpySignalOverlay.apk",
           "fileSize": 35308,
           "enabled": true
         }
@@ -721,7 +721,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/RelSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/RelSignalOverlay.apk",
           "fileSize": 30001,
           "enabled": true
         }
@@ -749,7 +749,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/RomanSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/RomanSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -777,7 +777,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/RoundSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/RoundSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -805,7 +805,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/ScrollSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/ScrollSignalOverlay.apk",
           "fileSize": 25905,
           "enabled": true
         }
@@ -833,7 +833,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/SeaSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/SeaSignalOverlay.apk",
           "fileSize": 30001,
           "enabled": true
         }
@@ -861,7 +861,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/SneakySignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/SneakySignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
@@ -889,7 +889,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/StackSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/StackSignalOverlay.apk",
           "fileSize": 50481,
           "enabled": true
         }
@@ -917,7 +917,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/StrokeSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/StrokeSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -945,7 +945,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/WannuiSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/WannuiSignalOverlay.apk",
           "fileSize": 25905,
           "enabled": true
         }
@@ -973,7 +973,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/WavySignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/WavySignalOverlay.apk",
           "fileSize": 21809,
           "enabled": true
         }
@@ -1001,7 +1001,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/WindowsSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/WindowsSignalOverlay.apk",
           "fileSize": 34097,
           "enabled": true
         }
@@ -1029,7 +1029,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/WingSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/WingSignalOverlay.apk",
           "fileSize": 144689,
           "enabled": true
         }
@@ -1057,7 +1057,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/XperiaSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/XperiaSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -1085,7 +1085,7 @@
           "targets": [
             "signal"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/ZigZagSignalOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/ZigZagSignalOverlay.apk",
           "fileSize": 17713,
           "enabled": true
         }
@@ -1113,7 +1113,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/AuroraWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/AuroraWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1141,7 +1141,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BarsWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/BarsWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1169,7 +1169,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/DoraWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/DoraWiFiOverlay.apk",
           "fileSize": 25418,
           "enabled": true
         }
@@ -1197,7 +1197,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/FaintUIWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/FaintUIWiFiOverlay.apk",
           "fileSize": 17332,
           "enabled": true
         }
@@ -1225,7 +1225,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/ForlornWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/ForlornWiFiOverlay.apk",
           "fileSize": 17332,
           "enabled": true
         }
@@ -1253,7 +1253,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/GradiconWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/GradiconWiFiOverlay.apk",
           "fileSize": 45664,
           "enabled": true
         }
@@ -1281,7 +1281,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/InsideWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/InsideWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1309,7 +1309,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/NothingDotWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/NothingDotWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1337,7 +1337,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/PlumpyWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/PlumpyWiFiOverlay.apk",
           "fileSize": 17332,
           "enabled": true
         }
@@ -1365,7 +1365,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/RoundWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/RoundWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1393,7 +1393,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/SneakyWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/SneakyWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1421,7 +1421,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/StrokeWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/StrokeWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1449,7 +1449,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/WavyWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/WavyWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1477,7 +1477,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/WeedWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/WeedWiFiOverlay.apk",
           "fileSize": 25321,
           "enabled": true
         }
@@ -1505,7 +1505,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/XperiaWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/XperiaWiFiOverlay.apk",
           "fileSize": 17129,
           "enabled": true
         }
@@ -1533,7 +1533,7 @@
           "targets": [
             "wifi"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/ZigZagWiFiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/ZigZagWiFiOverlay.apk",
           "fileSize": 13033,
           "enabled": true
         }
@@ -1561,7 +1561,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackAcherusAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackAcherusAndroidOverlay.apk",
           "fileSize": 44567,
           "enabled": true
         },
@@ -1571,7 +1571,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackAcherusSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackAcherusSystemUIOverlay.apk",
           "fileSize": 138190,
           "enabled": true
         }
@@ -1599,7 +1599,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackAuroraAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackAuroraAndroidOverlay.apk",
           "fileSize": 135346,
           "enabled": true
         },
@@ -1609,7 +1609,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackAuroraSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackAuroraSystemUIOverlay.apk",
           "fileSize": 388877,
           "enabled": true
         }
@@ -1637,7 +1637,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackCircularAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackCircularAndroidOverlay.apk",
           "fileSize": 84530,
           "enabled": true
         },
@@ -1647,7 +1647,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackCircularSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackCircularSystemUIOverlay.apk",
           "fileSize": 70484,
           "enabled": true
         }
@@ -1675,7 +1675,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackFilledAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackFilledAndroidOverlay.apk",
           "fileSize": 71767,
           "enabled": true
         },
@@ -1685,7 +1685,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackFilledSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackFilledSystemUIOverlay.apk",
           "fileSize": 62292,
           "enabled": true
         }
@@ -1713,7 +1713,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackGradiconAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackGradiconAndroidOverlay.apk",
           "fileSize": 406338,
           "enabled": true
         },
@@ -1723,7 +1723,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackGradiconSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackGradiconSystemUIOverlay.apk",
           "fileSize": 1125207,
           "enabled": true
         }
@@ -1751,7 +1751,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackKaiAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackKaiAndroidOverlay.apk",
           "fileSize": 104973,
           "enabled": true
         },
@@ -1761,7 +1761,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackKaiSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackKaiSystemUIOverlay.apk",
           "fileSize": 128030,
           "enabled": true
         }
@@ -1789,7 +1789,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackLornAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackLornAndroidOverlay.apk",
           "fileSize": 131324,
           "enabled": true
         },
@@ -1799,7 +1799,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackLornSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackLornSystemUIOverlay.apk",
           "fileSize": 367388,
           "enabled": true
         }
@@ -1827,7 +1827,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackNostalgicAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackNostalgicAndroidOverlay.apk",
           "fileSize": 53926,
           "enabled": true
         },
@@ -1837,7 +1837,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackNostalgicSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackNostalgicSystemUIOverlay.apk",
           "fileSize": 67113,
           "enabled": true
         }
@@ -1865,7 +1865,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackOOSAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackOOSAndroidOverlay.apk",
           "fileSize": 80483,
           "enabled": true
         },
@@ -1875,7 +1875,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackOOSSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackOOSSystemUIOverlay.apk",
           "fileSize": 66214,
           "enabled": true
         }
@@ -1903,7 +1903,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackOutlineAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackOutlineAndroidOverlay.apk",
           "fileSize": 149210,
           "enabled": true
         },
@@ -1913,7 +1913,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackOutlineSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackOutlineSystemUIOverlay.apk",
           "fileSize": 278421,
           "enabled": true
         }
@@ -1941,7 +1941,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackPlumpyAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackPlumpyAndroidOverlay.apk",
           "fileSize": 138914,
           "enabled": true
         },
@@ -1951,7 +1951,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackPlumpySystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackPlumpySystemUIOverlay.apk",
           "fileSize": 425659,
           "enabled": true
         }
@@ -1979,7 +1979,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackPUIAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackPUIAndroidOverlay.apk",
           "fileSize": 152490,
           "enabled": true
         },
@@ -1989,7 +1989,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackPUISystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackPUISystemUIOverlay.apk",
           "fileSize": 170152,
           "enabled": true
         }
@@ -2017,7 +2017,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackRoundedAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackRoundedAndroidOverlay.apk",
           "fileSize": 75863,
           "enabled": true
         },
@@ -2027,7 +2027,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackRoundedSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackRoundedSystemUIOverlay.apk",
           "fileSize": 66388,
           "enabled": true
         }
@@ -2055,7 +2055,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackSamAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackSamAndroidOverlay.apk",
           "fileSize": 96247,
           "enabled": true
         },
@@ -2065,7 +2065,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackSamSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackSamSystemUIOverlay.apk",
           "fileSize": 113942,
           "enabled": true
         }
@@ -2093,7 +2093,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackVictorAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackVictorAndroidOverlay.apk",
           "fileSize": 96449,
           "enabled": true
         },
@@ -2103,7 +2103,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackVictorSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackVictorSystemUIOverlay.apk",
           "fileSize": 124242,
           "enabled": true
         }
@@ -2131,7 +2131,7 @@
           "targets": [
             "android"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackXperiaAndroidOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackXperiaAndroidOverlay.apk",
           "fileSize": 76316,
           "enabled": true
         },
@@ -2141,7 +2141,7 @@
           "targets": [
             "systemui"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackXperiaSystemUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/IconPackXperiaSystemUIOverlay.apk",
           "fileSize": 57943,
           "enabled": true
         }
@@ -2171,7 +2171,7 @@
           "targets": [
             "android.theme.customization.back_gesture"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BackGestureDotTrailOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/BackGestureDotTrailOverlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
@@ -2200,7 +2200,7 @@
           "targets": [
             "android.theme.customization.charging_animation"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/NothingChargingAnimationOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/NothingChargingAnimationOverlay.apk",
           "fileSize": 8542,
           "enabled": true
         }
@@ -2229,7 +2229,7 @@
           "targets": [
             "android.theme.customization.charging_animation"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/MotoChargingAnimationOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/MotoChargingAnimationOverlay.apk",
           "fileSize": 4840138,
           "enabled": true
         }
@@ -2257,7 +2257,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleBatteryInverterOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/BatteryStyleBatteryInverterOverlay.apk",
           "fileSize": 29022,
           "enabled": true
         }
@@ -2285,7 +2285,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleFaintUIOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/BatteryStyleFaintUIOverlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
@@ -2313,7 +2313,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleHeartOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/BatteryStyleHeartOverlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
@@ -2342,7 +2342,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleiOS15Overlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/BatteryStyleiOS15Overlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
@@ -2372,7 +2372,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleiOS16Overlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/BatteryStyleiOS16Overlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
@@ -2402,7 +2402,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleOneUI7Overlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/BatteryStyleOneUI7Overlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
@@ -2431,7 +2431,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleOrigamiOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/BatteryStyleOrigamiOverlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
@@ -2460,7 +2460,7 @@
           "targets": [
             "android.theme.customization.battery_style"
           ],
-          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BatteryStyleSmileyOverlay.apk",
+          "downloadUrl": "https://raw.githubusercontent.com/Evolution-X/vendor_themes/bq2/apks/BatteryStyleSmileyOverlay.apk",
           "fileSize": 12638,
           "enabled": true
         }
