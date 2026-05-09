@@ -23,6 +23,20 @@
       "icon": "wifi"
     },
     {
+      "id": "back_gesture",
+      "name": "Back Gesture",
+      "description": "Back gesture indicator appearance",
+      "targetPackage": "com.android.systemui",
+      "icon": "swipe_left"
+    },
+    {
+      "id": "charging_animation",
+      "name": "Charging Animation",
+      "description": "Wired charging animation style",
+      "targetPackage": "com.android.systemui",
+      "icon": "bolt"
+    },
+    {
       "id": "battery_style",
       "name": "Battery Style",
       "description": "Battery icon style themes",
@@ -48,6 +62,18 @@
       "name": "Icon Packs",
       "description": "System-wide icon style themes",
       "icon": "category"
+    },
+    {
+      "id": "charging_animation",
+      "name": "Charging Animation",
+      "description": "Wired charging animation styles",
+      "icon": "bolt"
+    },
+    {
+      "id": "back_gesture",
+      "name": "Back Gesture",
+      "description": "Back gesture indicator styles",
+      "icon": "swipe_left"
     },
     {
       "id": "battery_style",
@@ -2117,6 +2143,94 @@
           ],
           "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/IconPackXperiaSystemUIOverlay.apk",
           "fileSize": 57943,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "back_gesture_dot_trail",
+      "name": "Dot Trail",
+      "description": "Dot trail back gesture indicator",
+      "author": "AxionOS",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "back_gesture",
+      "tags": [
+        "back_gesture",
+        "gesture",
+        "dot"
+      ],
+      "isUnified": true,
+      "supportsRegionSampling": true,
+      "overlays": [
+        {
+          "componentId": "back_gesture",
+          "packageName": "com.android.systemui.back_gesture.dot_trail",
+          "targets": [
+            "android.theme.customization.back_gesture"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/BackGestureDotTrailOverlay.apk",
+          "fileSize": 12638,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "charging_anim_nothing",
+      "name": "Nothing OS",
+      "description": "Nothing Phone ripple charging animation with glare effect",
+      "author": "AxionOS",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "charging_animation",
+      "tags": [
+        "charging_animation",
+        "nothing",
+        "ripple"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "charging_animation",
+          "packageName": "com.android.systemui.charging_animation.nothing",
+          "targets": [
+            "android.theme.customization.charging_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/NothingChargingAnimationOverlay.apk",
+          "fileSize": 8542,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "charging_anim_moto",
+      "name": "Moto",
+      "description": "Motorola wired charging animation",
+      "author": "AxionOS",
+      "version": "1.0",
+      "versionCode": 1,
+      "minSdk": 36,
+      "previewImages": [],
+      "category": "charging_animation",
+      "tags": [
+        "charging_animation",
+        "motorola",
+        "wire"
+      ],
+      "isUnified": true,
+      "overlays": [
+        {
+          "componentId": "charging_animation",
+          "packageName": "com.android.systemui.charging_animation.moto",
+          "targets": [
+            "android.theme.customization.charging_animation"
+          ],
+          "downloadUrl": "https://raw.githubusercontent.com/crdroidandroid/android_vendor_themes/16.0/apks/MotoChargingAnimationOverlay.apk",
+          "fileSize": 4840138,
           "enabled": true
         }
       ]
