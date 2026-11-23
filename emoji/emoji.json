@@ -28,6 +28,13 @@
       "file": "SwiftUIEmoji.ttf",
       "size": 25243132,
       "sha256": "afeae2411705772be83ed17ff71bf5de7cd11b5e44e0cfde0d8268a4ca648aac"
+    },
+    {
+      "id": "twemoji",
+      "name": "Twemoji",
+      "file": "Twemoji.ttf",
+      "size": 3857500,
+      "sha256": "795b1c0fb2b89e9341826aa36fdee6510edcdee2ad6226e0d386130ab0ea2910"
     }
   ]
 }
