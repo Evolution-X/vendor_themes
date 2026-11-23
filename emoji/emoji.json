@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "emoji": [
+    {
+      "id": "facebookemoji",
+      "name": "Facebook",
+      "file": "FacebookEmoji.ttf",
+      "size": 39425672,
+      "sha256": "b1be92fc4ae3485337ad1cb2073010e3cbee1c8e6fe8a315728429bbd5c88db8"
+    },
+    {
+      "id": "lunarisiosemoji",
+      "name": "iOS",
+      "file": "LunarisIosEmoji.ttf",
+      "size": 35321980,
+      "sha256": "f06ab19cd58f6c42ee7e367205e54dd7931c1344b641b977a415a279cf11319f"
+    },
+    {
+      "id": "samsungcoloremoji",
+      "name": "Samsung",
+      "file": "SamsungColorEmoji.ttf",
+      "size": 19404336,
+      "sha256": "7ba59f7494b314155b684df75469bb64c20e3e52d9addc09d1a0904e5b6b7e74"
+    },
+    {
+      "id": "swiftuiemoji",
+      "name": "SwiftUI",
+      "file": "SwiftUIEmoji.ttf",
+      "size": 25243132,
+      "sha256": "afeae2411705772be83ed17ff71bf5de7cd11b5e44e0cfde0d8268a4ca648aac"
+    }
+  ]
+}
