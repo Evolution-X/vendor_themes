@@ -35,6 +35,13 @@
       "file": "Twemoji.ttf",
       "size": 3857500,
       "sha256": "795b1c0fb2b89e9341826aa36fdee6510edcdee2ad6226e0d386130ab0ea2910"
+    },
+    {
+      "id": "fluent",
+      "name": "Microsoft Fluent UI",
+      "file": "fluent.ttf",
+      "size": 24684212,
+      "sha256": "b4042d1d1a7d3ddf75e549cf957e053f3493371fb9298047acb8fb418b14e2d3"
     }
   ]
 }
