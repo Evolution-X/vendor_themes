@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "bootanimations": [
+    {
+      "id": "ctos",
+      "name": "ctOS",
+      "file": "bootanimation_ctos.zip",
+      "size": 34876866,
+      "sha256": "bc4ffb175e2818f64b1e444072b560e10d14ee6a8a7317ad55f3c05709703a6d",
+      "preview": "ctos.png"
+    },
+    {
+      "id": "cyberpunk",
+      "name": "Cyberpunk",
+      "file": "bootanimation_cyberpunk.zip",
+      "size": 23773485,
+      "sha256": "7187c3ac7d8319ab160084a73d247f69daf59d49ab230eba7cec405882191514",
+      "preview": "cyberpunk.png"
+    },
+    {
+      "id": "du",
+      "name": "Dirty Unicorns",
+      "file": "bootanimation_du.zip",
+      "size": 13456102,
+      "sha256": "68f6c41d3b6bf122b466505247168457900bc8bf9959a466922401967132d0ad",
+      "preview": "du.png"
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "file": "bootanimation_google.zip",
+      "size": 42601920,
+      "sha256": "81258c4ba4fe7abe9cafe3a5a6bb4489197c066e9700d9c7c6669b8fe0098cd9",
+      "preview": "google.png"
+    },
+    {
+      "id": "pac",
+      "name": "PAC-ROM",
+      "file": "bootanimation_pac.zip",
+      "size": 7182238,
+      "sha256": "55899331a2570592a466431e4415b47a3dcdf2805232f43bd10aec69b32c4d87",
+      "preview": "pac.png"
+    },
+    {
+      "id": "prism",
+      "name": "Prism (Evolution X)",
+      "file": "bootanimation_prism.zip",
+      "size": 31328754,
+      "sha256": "db96c2a414d57146935aa262c1150a8de34d6a076ae5ebe1269608fb2c12bf0b",
+      "preview": "prism.png"
+    },
+    {
+      "id": "prism_dynamic",
+      "name": "Dynamic Prism (Evolution X)",
+      "file": "bootanimation_prism_dynamic.zip",
+      "size": 27449379,
+      "sha256": "b1279b450cb7f7b138bb43b9a9f0de7d4a6c4d23f8fb3274d954cbc610913c33",
+      "preview": "prism_dynamic.png"
+    },
+    {
+      "id": "valorant",
+      "name": "Valorant",
+      "file": "bootanimation_valorant.zip",
+      "size": 7223104,
+      "sha256": "24ac9b2cb306a3946f84af28fcd848313b127152d6e4cbf36432d00225d83104",
+      "preview": "valorant.png"
+    }
+  ]
+}

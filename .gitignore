@@ -38,3 +38,6 @@ __pycache__/
 # Personal notes
 notes.txt
 TODO.md
+
+# The boot animation catalog serves these
+!bootanimation/*.zip
